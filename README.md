@@ -8,6 +8,8 @@ If I can think it, I will try, build it.
 
 I'm currently learning python and plan to learn Typescript and React as I continue.
 
+I like building things that are simple, useful, and easy to understand
+
 ## Fun Facts:
 - I love animals
 - Favorite game is Zelda Tears of the Kingdom
